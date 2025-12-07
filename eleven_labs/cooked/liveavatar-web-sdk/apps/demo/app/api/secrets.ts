@@ -1,0 +1,15 @@
+export const API_KEY = "5e4a40cc-d2d7-11f0-a99e-066a7fa2e369";
+export const API_URL = "https://api.liveavatar.com";
+export const AVATAR_ID = "7299c55d-1f45-482d-915c-e5efdc9dd266";
+
+// FULL MODE Customizations
+// Wayne's avatar voice and context
+export const VOICE_ID = "c2527536-6d1f-4412-a643-53a3497dada9";
+export const CONTEXT_ID = "5b9dba8a-aa31-11f0-a6ee-066a7fa2e369";
+export const LANGUAGE = "en";
+
+// CUSTOM MODE Customizations
+export const ELEVENLABS_API_KEY = "sk_fb37641b3c52fc4ae07b33bba9c35b4eb8009c090a5b2a5d";
+export const ELEVENLABS_AGENT_ID = "agent_5401kbsz7nshed1rwqtqbm363sw7";
+export const NEXT_PUBLIC_ELEVENLABS_AGENT_ID = "agent_5401kbsz7nshed1rwqtqbm363sw7";
+export const OPENAI_API_KEY = "YOUR_OPENAI_API_KEY";

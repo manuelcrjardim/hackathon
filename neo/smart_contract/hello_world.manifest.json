@@ -1,0 +1,25 @@
+{
+    "name": "hello_world",
+    "groups": [],
+    "abi": {
+        "methods": [
+            {
+                "name": "Main",
+                "offset": 0,
+                "parameters": [],
+                "safe": false,
+                "returntype": "Void"
+            }
+        ],
+        "events": []
+    },
+    "permissions": [],
+    "trusts": [],
+    "features": {},
+    "supportedstandards": [],
+    "extra": {
+        "Author": "COZ in partnership with Simpli",
+        "Email": "contact@coz.io",
+        "Description": "This is a contract example"
+    }
+}
